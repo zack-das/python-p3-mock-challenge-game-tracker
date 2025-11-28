@@ -11,7 +11,6 @@ class Game:
 
     @title.setter
     def title(self, value):
-        # Ignore any attempts to change the title
         pass
 
     def results(self):
@@ -72,5 +71,4 @@ class Result:
 
     @score.setter
     def score(self, value):
-        # Ignore any attempts to change the score
         pass
